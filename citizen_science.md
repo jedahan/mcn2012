@@ -1,8 +1,7 @@
 [Citizen Science][] #mcn2012sci
 =================
 
-Part I @elyw
-------
+# Part I @elyw
 
 What is citizen science? 
   participatory, not new, needs open data
@@ -26,8 +25,7 @@ What are some examples of getting museum science out?
   	Benefits:
   	  On the basis of free apps, they brought in 500,000 of grant money
 
-Part II @arfw? (zooniverse)
--------
+# Part II @??? (zooniverse)
 
 More examples:
 	Cornel Lab of Ornithology
