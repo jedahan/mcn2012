@@ -1,5 +1,5 @@
-Citizen Science #mcn2012sci
-===============
+[Citizen Science][] #mcn2012sci
+=================
 
 Part I @elyw
 ------
@@ -109,3 +109,5 @@ ALL PARTS CONSIDERED
   	make a personal connection with the researcher or team you are helping
   	  NOT 'come see galaxies no person has ever seen before'
   	  YES 'you have changed the way we do research'
+
+[Citizen Science]: http://www.mcn.edu/open-science-citizen-science-unleashing-power-community-collaboration-create-new-museum-science-mcn2

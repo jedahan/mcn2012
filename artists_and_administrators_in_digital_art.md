@@ -1,5 +1,5 @@
-The Role of Artists and Administrators in a Digital World
----------------------------------------------------------
+[The Role of Artists and Administrators in a Digital World][]
+===========================================================
 
 Socially Networked Arts Group #ArtsTech @jackomo
 -----------------------------
@@ -58,4 +58,6 @@ DANGER!
 
   Such great questions - are you commissioning a piece from an artists, or contracting a designer?
   	with an artist, you grant freedom and deal with the results
-  	with a designer, ????  (are you developing a solution?)
+      with a designer, ????  (are you developing a solution?)
+
+[The Role of Artists and Administrators in a Digital World]: http://www.mcn.edu/role-artists-and-administrators-digital-world-mcn2012artstech

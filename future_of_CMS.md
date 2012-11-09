@@ -1,5 +1,5 @@
-The Future of Collection Management Systems #mcn2012cms
-===========================================
+[The Future of Collection Management Systems][] #mcn2012cms
+=============================================
 
 
 collecting things @roblancefield
@@ -66,3 +66,5 @@ swiss army knife @adriankingston
 Projects
 --------
   lets do labs.metmuseum.org
+
+[The Future of Collection Management Systems]: http://www.mcn.edu/future-collections-management-systems-mcn2012cms
